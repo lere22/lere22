@@ -3,7 +3,7 @@
 
 I'm currently a Web Developer and Newbie UI/UX Design,
 
-- 🔭 My occupation are Freelancer and Currently Master College Student
+- 🔭 My occupation are Freelancer
 - 🌱 I’m currently learning React, Mobile Apps, and ML
 
 ## 🌐Socials
