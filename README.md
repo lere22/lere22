@@ -4,7 +4,7 @@
 I'm currently a Web Developer and Newbie UI/UX Design,
 
 - 🔭 My occupation are Freelancer
-- 🌱 I’m currently learning React, Mobile Apps, and ML
+- 🌱 I’m currently learning Front/Back-end, Mobile Apps, and ML
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/putu-rele-bhayu-sakti-342ab1126/) 
