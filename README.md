@@ -1,7 +1,7 @@
 # 💫About Me :
 ### Hi there 👋
 
-I'm currently a UI Design and Beginner Frontend Web Developer.
+I'm currently a UI Design and Beginner Frontend Web Developer. \
 I like to create a simple good-looking design with concern for usability 😁.
 
 - 🔭 My occupation is Freelancer
